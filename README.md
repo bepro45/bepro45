@@ -41,14 +41,8 @@ I enjoy experimenting with new technologies, developing web applications, explor
   <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-GitHub Analytics
+Watch My Contributions Come Alive!
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bepro45&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bepro45&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/bepro45/bepro45/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
-
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=bepro45&theme=tokyonight&hide_border=true" />
-</p>
-
