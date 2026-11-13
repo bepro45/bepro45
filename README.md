@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CSE+(Data+Science)+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CSE+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 
@@ -41,8 +41,3 @@ I enjoy experimenting with new technologies, developing web applications, explor
   <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-Watch My Contributions Come Alive!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bepro45/bepro45/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
