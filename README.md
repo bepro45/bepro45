@@ -57,7 +57,8 @@ I enjoy experimenting with new technologies, developing web applications, explor
 ## My Projects
 
 <details>
-<summary><b>Explore my repositories — Select a project</b></summary>
+<summary><b>Explore my repositories — 
+  Select a project</b></summary>
 
 <details>
 <summary>01. NearMiss AI</summary>
@@ -66,7 +67,7 @@ NearMiss AI explores how artificial intelligence and computer vision can help id
 
 **Technologies**
 
-<img src="https://skillicons.dev/icons?i=python,opencv" height="40">
+<img src="https://skillicons.dev/icons?i=python,opencv,html,css,json,nodejs" height="40">
 
 [View Repository](https://github.com/bepro45/nearmiss-ai)
 
