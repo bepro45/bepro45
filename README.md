@@ -1,8 +1,8 @@
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Biprojit!" alt="Hi, I'm Bipro!" />
-</h1>
+<p align="center">
+  <img src="bipro_glitch_intro.gif" width="700" alt="Hi, I'm Bipro"/>
+</p>
 
 
 <p align="center">
