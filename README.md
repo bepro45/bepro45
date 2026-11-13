@@ -1,10 +1,12 @@
 
+
 <h1 align="center">
-  Hi, I'm Biprojit!
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Biprojit!" alt="Hi, I'm Bipro!" />
 </h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=CSE+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer;Turning+Ideas+Into+Reality%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CSE+(Data+Science)+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 
@@ -19,20 +21,23 @@ I enjoy experimenting with new technologies, developing web applications, explor
  Learning Data Structures & Algorithms, Python, and Machine Learning
  🛠️ Tech Stack & Tools
 
-💻 Programming Languages
+ Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,sklearn" />
 </p>
 
-🌐 Web Development
+ Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,typescript" />
 </p>
 
-📊 Data Science & Tools
+
+ Data Science & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,idea,jenkins" />
+  <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
