@@ -1,7 +1,6 @@
 
-
-[<p align="center">
-  <img src="bipro_glitch_intro.gif" width="700" alt="Hi, I'm Biprojit"/>
+<p align="center">
+  <img src="assets/biprojit_glitch_intro.gif" width="100%" alt="Hi, I'm Biprojit">
 </p>
 
 <p align="center">
