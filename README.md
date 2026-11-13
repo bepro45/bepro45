@@ -41,3 +41,11 @@ I enjoy experimenting with new technologies, developing web applications, explor
   <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
+| Project | Description | Explore |
+|---|---|---|
+| NearMiss AI | AI-powered safety and near-miss analysis project. | [View](https://bepro45.github.io/bepro45/projects/nearmiss-ai.html) |
+| MindDates | A personal calendar for daily emotional check-ins. | [View](https://bepro45.github.io/bepro45/projects/minddates.html) |
+| College Predictor | A platform for exploring college options. | [View](https://bepro45.github.io/bepro45/projects/college-predictor.html) |
+| Football Dashboard | Football statistics and data visualisation. | [View](https://bepro45.github.io/bepro45/projects/football-dashboard.html) |
+| StreamVerse Analytics | Analysis of television and streaming content. | [View](https://bepro45.github.io/bepro45/projects/streamverse.html) |
+| YouTube Clone | A video-platform-inspired web development project. | [View](https://bepro45.github.io/bepro45/projects/youtube-clone.html) |
