@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="bipro_glitch_intro.gif" width="700" alt="Hi, I'm Bipro"/>
+  <img src="bipro_glitch_intro.gif" width="700" alt="Hi, I'm Biprojit"/>
 </p>
 
 
@@ -19,6 +19,7 @@ I enjoy experimenting with new technologies, developing web applications, explor
  Currently building projects in AI/ML and Full-Stack Development
 
  Learning Data Structures & Algorithms, Python, and Machine Learning
+ 
  🛠️ Tech Stack & Tools
 
  Programming Languages
