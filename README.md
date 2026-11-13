@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/biprojit_glitch_intro.gif" width="100%" alt="Hi, I'm Biprojit">
+  <img src="assets/biprojit_glitch.gif" width="100%" alt="Hi, I'm Biprojit">
 </p>
 
 <p align="center">
