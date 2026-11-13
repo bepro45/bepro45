@@ -138,3 +138,26 @@ This project recreates the basic browsing experience of a video-sharing platform
 </details>
 
 </details>
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/biprojit-paul-557930206/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/bepro45" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:biprob112@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=55D6E8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+meaningful+together.;See+you+around!" alt="Thanks for visiting" />
+</p>
+
