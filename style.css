@@ -174,3 +174,57 @@ footer a {
         padding: 0 6%;
     }
 }
+
+
+/* Individual project page */
+
+.project-detail {
+    max-width: 850px;
+    padding-top: 75px;
+    padding-bottom: 80px;
+}
+
+.project-detail h1 {
+    font-size: clamp(40px, 7vw, 65px);
+    margin: 20px 0;
+}
+
+.project-detail h1 span {
+    color: #00d9ff;
+}
+
+.detail-intro {
+    color: #aab6c7;
+    font-size: 18px;
+    line-height: 1.8;
+    max-width: 720px;
+    margin-bottom: 45px;
+}
+
+.detail-section {
+    margin-bottom: 35px;
+}
+
+.detail-section h2 {
+    font-size: 21px;
+    margin-bottom: 15px;
+}
+
+.detail-section p {
+    color: #aab6c7;
+    font-size: 15px;
+    line-height: 1.9;
+}
+
+.tech-stack {
+    display: flex;
+    gap: 18px;
+    margin-top: 20px;
+}
+
+.tech-stack img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
