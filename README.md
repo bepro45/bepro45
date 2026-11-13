@@ -3,7 +3,6 @@
 [<p align="center">
   <img src="bipro_glitch_intro.gif" width="700" alt="Hi, I'm Biprojit"/>
 </p>
-](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F4EF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Biprojit)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CSE+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Turning+Ideas+Into+Reality" alt="Typing SVG" />
